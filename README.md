@@ -1,2 +1,2 @@
-# postgis-book
-Libro de Postgres &amp; PostgreSQL
+# geopython-book
+Libro de Geopython
